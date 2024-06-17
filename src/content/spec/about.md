@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Made using [Fuwari](https://github.com/saicaca/fuwari) by Hiruka@HDevs .
 
-::github{repo="saicaca/fuwari"}
+::github{repo="HirukaRA/hdevs-blog-01"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
